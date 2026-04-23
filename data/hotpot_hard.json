@@ -1,0 +1,162 @@
+[
+  {
+    "qid": "hp006",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is an ancient city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp008",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest peak in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest peak in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "hp013",
+    "difficulty": "hard",
+    "question": "What language is primarily spoken in the country that invented the printing press?",
+    "gold_answer": "German",
+    "context": [
+      {
+        "title": "Printing Press",
+        "text": "The printing press was invented by Johannes Gutenberg in Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "The primary language of Germany is German."
+      }
+    ]
+  },
+  {
+    "qid": "hp016",
+    "difficulty": "hard",
+    "question": "Which river runs through the city that hosted the 2012 Summer Olympics?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "2012 Olympics",
+        "text": "The 2012 Summer Olympics were held in London."
+      },
+      {
+        "title": "London",
+        "text": "The River Thames runs through London."
+      }
+    ]
+  },
+  {
+    "qid": "hp020",
+    "difficulty": "hard",
+    "question": "Which sea does the Nile River empty into?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Nile River",
+        "text": "The Nile River flows northward through Africa."
+      },
+      {
+        "title": "Mediterranean Sea",
+        "text": "The Nile empties into the Mediterranean Sea in northern Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp023",
+    "difficulty": "hard",
+    "question": "Which country did Marie Curie emigrate from to study in Paris?",
+    "gold_answer": "Poland",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was born in Warsaw, Poland, and later moved to Paris."
+      },
+      {
+        "title": "Poland",
+        "text": "Poland is a country in Central Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp026",
+    "difficulty": "hard",
+    "question": "What is the native language of the country that first landed on the Moon?",
+    "gold_answer": "English",
+    "context": [
+      {
+        "title": "Moon landing",
+        "text": "The United States was the first country to land humans on the Moon in 1969."
+      },
+      {
+        "title": "United States",
+        "text": "The primary language of the United States is English."
+      }
+    ]
+  },
+  {
+    "qid": "hp029",
+    "difficulty": "hard",
+    "question": "What is the currency of the country that built the Panama Canal?",
+    "gold_answer": "US Dollar",
+    "context": [
+      {
+        "title": "Panama Canal",
+        "text": "The Panama Canal was built primarily by the United States."
+      },
+      {
+        "title": "United States",
+        "text": "The United States uses the US Dollar as its currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp033",
+    "difficulty": "hard",
+    "question": "What is the main language spoken in the country where tango originated?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Tango",
+        "text": "Tango is a dance that originated in Argentina."
+      },
+      {
+        "title": "Argentina",
+        "text": "The official language of Argentina is Spanish."
+      }
+    ]
+  },
+  {
+    "qid": "hp036",
+    "difficulty": "hard",
+    "question": "What river flows through the city where Shakespeare was born?",
+    "gold_answer": "River Avon",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was born in Stratford-upon-Avon, England."
+      },
+      {
+        "title": "Stratford-upon-Avon",
+        "text": "Stratford-upon-Avon is a market town located on the River Avon."
+      }
+    ]
+  }
+]

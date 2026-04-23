@@ -1,0 +1,162 @@
+[
+  {
+    "qid": "hp001",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England."
+      }
+    ]
+  },
+  {
+    "qid": "hp003",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp005",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion also study?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton formulated the three laws of motion and was a mathematician."
+      },
+      {
+        "title": "Laws of Motion",
+        "text": "The three laws of motion are attributed to Isaac Newton."
+      }
+    ]
+  },
+  {
+    "qid": "hp009",
+    "difficulty": "easy",
+    "question": "In which country is the Eiffel Tower located?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp011",
+    "difficulty": "easy",
+    "question": "What ocean does the Amazon River empty into?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River empties into the Atlantic Ocean near its delta."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is the second-largest ocean on Earth."
+      }
+    ]
+  },
+  {
+    "qid": "hp014",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Mars",
+        "text": "Mars is known as the Red Planet due to its reddish appearance."
+      },
+      {
+        "title": "Solar System",
+        "text": "Mars is the fourth planet from the Sun in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp017",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "gold_answer": "Leonardo da Vinci",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa was painted by Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian Renaissance artist."
+      }
+    ]
+  },
+  {
+    "qid": "hp019",
+    "difficulty": "easy",
+    "question": "What element has the chemical symbol Au?",
+    "gold_answer": "gold",
+    "context": [
+      {
+        "title": "Au",
+        "text": "The chemical symbol Au stands for gold."
+      },
+      {
+        "title": "Gold",
+        "text": "Gold is a precious metal used in jewelry and electronics."
+      }
+    ]
+  },
+  {
+    "qid": "hp022",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water in Celsius?",
+    "gold_answer": "100",
+    "context": [
+      {
+        "title": "Water",
+        "text": "Water boils at 100 degrees Celsius at sea level."
+      },
+      {
+        "title": "Celsius scale",
+        "text": "The Celsius scale sets boiling point of water at 100 degrees."
+      }
+    ]
+  },
+  {
+    "qid": "hp025",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for water?",
+    "gold_answer": "H2O",
+    "context": [
+      {
+        "title": "Water",
+        "text": "Water has the chemical formula H2O consisting of hydrogen and oxygen."
+      },
+      {
+        "title": "H2O",
+        "text": "H2O means two hydrogen atoms bonded to one oxygen atom."
+      }
+    ]
+  }
+]

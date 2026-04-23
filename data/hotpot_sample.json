@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hp001",
+    "difficulty": "easy",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+      },
+      {
+        "title": "Oxford University",
+        "text": "Oxford University is a collegiate research university in Oxford, England."
+      }
+    ]
+  },
+  {
+    "qid": "hp002",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London, England."
+      },
+      {
+        "title": "London",
+        "text": "London is crossed by the River Thames."
+      }
+    ]
+  },
+  {
+    "qid": "hp003",
+    "difficulty": "easy",
+    "question": "What instrument did the composer of The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+      }
+    ]
+  },
+  {
+    "qid": "hp004",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lima?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Lima",
+        "text": "Lima is the capital city of Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean on the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp005",
+    "difficulty": "easy",
+    "question": "What field did the scientist who proposed the three laws of motion also study?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton formulated the three laws of motion and was a mathematician."
+      },
+      {
+        "title": "Laws of Motion",
+        "text": "The three laws of motion are attributed to Isaac Newton."
+      }
+    ]
+  },
+  {
+    "qid": "hp006",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is an ancient city in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp007",
+    "difficulty": "medium",
+    "question": "Which language family does the primary language of Brazil belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Brazil",
+        "text": "The official language of Brazil is Portuguese."
+      },
+      {
+        "title": "Portuguese language",
+        "text": "Portuguese is a Romance language originating from Galicia."
+      }
+    ]
+  },
+  {
+    "qid": "hp008",
+    "difficulty": "hard",
+    "question": "Which mountain range contains the highest peak in the country whose capital is Kathmandu?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Kathmandu",
+        "text": "Kathmandu is the capital of Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Mount Everest, the highest peak in Nepal, is part of the Himalayas."
+      }
+    ]
+  },
+  {
+    "qid": "hp009",
+    "difficulty": "easy",
+    "question": "In which country is the Eiffel Tower located?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a wrought-iron lattice tower in Paris."
+      },
+      {
+        "title": "Paris",
+        "text": "Paris is the capital city of France."
+      }
+    ]
+  },
+  {
+    "qid": "hp010",
+    "difficulty": "medium",
+    "question": "What is the native country of the composer of Fur Elise?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "Fur Elise",
+        "text": "Fur Elise is a piano piece composed by Ludwig van Beethoven."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was a German composer born in Bonn."
+      }
+    ]
+  },
+  {
+    "qid": "hp011",
+    "difficulty": "easy",
+    "question": "What ocean does the Amazon River empty into?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River empties into the Atlantic Ocean near its delta."
+      },
+      {
+        "title": "Atlantic Ocean",
+        "text": "The Atlantic Ocean is the second-largest ocean on Earth."
+      }
+    ]
+  },
+  {
+    "qid": "hp012",
+    "difficulty": "medium",
+    "question": "Which country owns the island where the Galapagos tortoises live?",
+    "gold_answer": "Ecuador",
+    "context": [
+      {
+        "title": "Galapagos Islands",
+        "text": "The Galapagos Islands are home to giant tortoises."
+      },
+      {
+        "title": "Ecuador",
+        "text": "The Galapagos Islands are a territory of Ecuador."
+      }
+    ]
+  },
+  {
+    "qid": "hp013",
+    "difficulty": "hard",
+    "question": "What language is primarily spoken in the country that invented the printing press?",
+    "gold_answer": "German",
+    "context": [
+      {
+        "title": "Printing Press",
+        "text": "The printing press was invented by Johannes Gutenberg in Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "The primary language of Germany is German."
+      }
+    ]
+  },
+  {
+    "qid": "hp014",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "gold_answer": "Mars",
+    "context": [
+      {
+        "title": "Mars",
+        "text": "Mars is known as the Red Planet due to its reddish appearance."
+      },
+      {
+        "title": "Solar System",
+        "text": "Mars is the fourth planet from the Sun in the Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp015",
+    "difficulty": "medium",
+    "question": "What is the capital of the country that won the 2018 FIFA World Cup?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "2018 FIFA World Cup",
+        "text": "France won the 2018 FIFA World Cup held in Russia."
+      },
+      {
+        "title": "France",
+        "text": "The capital of France is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp016",
+    "difficulty": "hard",
+    "question": "Which river runs through the city that hosted the 2012 Summer Olympics?",
+    "gold_answer": "River Thames",
+    "context": [
+      {
+        "title": "2012 Olympics",
+        "text": "The 2012 Summer Olympics were held in London."
+      },
+      {
+        "title": "London",
+        "text": "The River Thames runs through London."
+      }
+    ]
+  },
+  {
+    "qid": "hp017",
+    "difficulty": "easy",
+    "question": "Who painted the Mona Lisa?",
+    "gold_answer": "Leonardo da Vinci",
+    "context": [
+      {
+        "title": "Mona Lisa",
+        "text": "The Mona Lisa was painted by Leonardo da Vinci."
+      },
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was an Italian Renaissance artist."
+      }
+    ]
+  },
+  {
+    "qid": "hp018",
+    "difficulty": "medium",
+    "question": "What is the currency of the country where the Colosseum is located?",
+    "gold_answer": "Euro",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Rome, Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy uses the Euro as its official currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp019",
+    "difficulty": "easy",
+    "question": "What element has the chemical symbol Au?",
+    "gold_answer": "gold",
+    "context": [
+      {
+        "title": "Au",
+        "text": "The chemical symbol Au stands for gold."
+      },
+      {
+        "title": "Gold",
+        "text": "Gold is a precious metal used in jewelry and electronics."
+      }
+    ]
+  },
+  {
+    "qid": "hp020",
+    "difficulty": "hard",
+    "question": "Which sea does the Nile River empty into?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Nile River",
+        "text": "The Nile River flows northward through Africa."
+      },
+      {
+        "title": "Mediterranean Sea",
+        "text": "The Nile empties into the Mediterranean Sea in northern Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp021",
+    "difficulty": "medium",
+    "question": "What is the highest mountain in Africa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "context": [
+      {
+        "title": "Africa mountains",
+        "text": "Mount Kilimanjaro is the highest mountain in Africa, located in Tanzania."
+      },
+      {
+        "title": "Tanzania",
+        "text": "Tanzania is a country in East Africa known for its wildlife."
+      }
+    ]
+  },
+  {
+    "qid": "hp022",
+    "difficulty": "easy",
+    "question": "What is the boiling point of water in Celsius?",
+    "gold_answer": "100",
+    "context": [
+      {
+        "title": "Water",
+        "text": "Water boils at 100 degrees Celsius at sea level."
+      },
+      {
+        "title": "Celsius scale",
+        "text": "The Celsius scale sets boiling point of water at 100 degrees."
+      }
+    ]
+  },
+  {
+    "qid": "hp023",
+    "difficulty": "hard",
+    "question": "Which country did Marie Curie emigrate from to study in Paris?",
+    "gold_answer": "Poland",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was born in Warsaw, Poland, and later moved to Paris."
+      },
+      {
+        "title": "Poland",
+        "text": "Poland is a country in Central Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp024",
+    "difficulty": "medium",
+    "question": "What sport does Wimbledon host?",
+    "gold_answer": "tennis",
+    "context": [
+      {
+        "title": "Wimbledon",
+        "text": "Wimbledon is the oldest and most prestigious tennis tournament."
+      },
+      {
+        "title": "Tennis",
+        "text": "Tennis is a racket sport played on various court surfaces."
+      }
+    ]
+  },
+  {
+    "qid": "hp025",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for water?",
+    "gold_answer": "H2O",
+    "context": [
+      {
+        "title": "Water",
+        "text": "Water has the chemical formula H2O consisting of hydrogen and oxygen."
+      },
+      {
+        "title": "H2O",
+        "text": "H2O means two hydrogen atoms bonded to one oxygen atom."
+      }
+    ]
+  },
+  {
+    "qid": "hp026",
+    "difficulty": "hard",
+    "question": "What is the native language of the country that first landed on the Moon?",
+    "gold_answer": "English",
+    "context": [
+      {
+        "title": "Moon landing",
+        "text": "The United States was the first country to land humans on the Moon in 1969."
+      },
+      {
+        "title": "United States",
+        "text": "The primary language of the United States is English."
+      }
+    ]
+  },
+  {
+    "qid": "hp027",
+    "difficulty": "medium",
+    "question": "Which ocean is the largest?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Oceans",
+        "text": "The Pacific Ocean is the largest and deepest ocean on Earth."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean covers more area than all land combined."
+      }
+    ]
+  },
+  {
+    "qid": "hp028",
+    "difficulty": "easy",
+    "question": "What is the capital of Japan?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "The capital of Japan is Tokyo, the most populous city in the world."
+      },
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is a major global city and the seat of Japanese government."
+      }
+    ]
+  },
+  {
+    "qid": "hp029",
+    "difficulty": "hard",
+    "question": "What is the currency of the country that built the Panama Canal?",
+    "gold_answer": "US Dollar",
+    "context": [
+      {
+        "title": "Panama Canal",
+        "text": "The Panama Canal was built primarily by the United States."
+      },
+      {
+        "title": "United States",
+        "text": "The United States uses the US Dollar as its currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp030",
+    "difficulty": "medium",
+    "question": "Which gas is most abundant in the Earth atmosphere?",
+    "gold_answer": "nitrogen",
+    "context": [
+      {
+        "title": "Earth atmosphere",
+        "text": "Nitrogen makes up about 78 percent of the Earth atmosphere."
+      },
+      {
+        "title": "Nitrogen",
+        "text": "Nitrogen is a colorless, odorless gas essential to life."
+      }
+    ]
+  },
+  {
+    "qid": "hp031",
+    "difficulty": "easy",
+    "question": "What is the largest planet in the Solar System?",
+    "gold_answer": "Jupiter",
+    "context": [
+      {
+        "title": "Solar System",
+        "text": "Jupiter is the largest planet in the Solar System."
+      },
+      {
+        "title": "Jupiter",
+        "text": "Jupiter is a gas giant with a mass greater than all other planets combined."
+      }
+    ]
+  },
+  {
+    "qid": "hp032",
+    "difficulty": "medium",
+    "question": "Which country has the most natural lakes?",
+    "gold_answer": "Canada",
+    "context": [
+      {
+        "title": "Lakes",
+        "text": "Canada has more lakes than any other country in the world."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada is a North American country known for its vast natural landscapes."
+      }
+    ]
+  },
+  {
+    "qid": "hp033",
+    "difficulty": "hard",
+    "question": "What is the main language spoken in the country where tango originated?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Tango",
+        "text": "Tango is a dance that originated in Argentina."
+      },
+      {
+        "title": "Argentina",
+        "text": "The official language of Argentina is Spanish."
+      }
+    ]
+  },
+  {
+    "qid": "hp034",
+    "difficulty": "easy",
+    "question": "What is the powerhouse of the cell?",
+    "gold_answer": "mitochondria",
+    "context": [
+      {
+        "title": "Cell biology",
+        "text": "The mitochondria is known as the powerhouse of the cell."
+      },
+      {
+        "title": "Mitochondria",
+        "text": "Mitochondria produce energy through cellular respiration."
+      }
+    ]
+  },
+  {
+    "qid": "hp035",
+    "difficulty": "medium",
+    "question": "Which element has atomic number 79?",
+    "gold_answer": "gold",
+    "context": [
+      {
+        "title": "Periodic table",
+        "text": "Atomic number 79 corresponds to gold on the periodic table."
+      },
+      {
+        "title": "Gold",
+        "text": "Gold is a chemical element with symbol Au and atomic number 79."
+      }
+    ]
+  },
+  {
+    "qid": "hp036",
+    "difficulty": "hard",
+    "question": "What river flows through the city where Shakespeare was born?",
+    "gold_answer": "River Avon",
+    "context": [
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was born in Stratford-upon-Avon, England."
+      },
+      {
+        "title": "Stratford-upon-Avon",
+        "text": "Stratford-upon-Avon is a market town located on the River Avon."
+      }
+    ]
+  },
+  {
+    "qid": "hp037",
+    "difficulty": "easy",
+    "question": "Which continent is Egypt located in?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Egypt",
+        "text": "Egypt is a country located in northeastern Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is the second-largest continent in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp038",
+    "difficulty": "medium",
+    "question": "What is the tallest building in the world?",
+    "gold_answer": "Burj Khalifa",
+    "context": [
+      {
+        "title": "Burj Khalifa",
+        "text": "The Burj Khalifa in Dubai is the tallest building in the world."
+      },
+      {
+        "title": "Dubai",
+        "text": "Dubai is a city in the United Arab Emirates."
+      }
+    ]
+  },
+  {
+    "qid": "hp039",
+    "difficulty": "hard",
+    "question": "Which country administers Easter Island?",
+    "gold_answer": "Chile",
+    "context": [
+      {
+        "title": "Easter Island",
+        "text": "Easter Island is a remote volcanic island in the Pacific Ocean."
+      },
+      {
+        "title": "Chile",
+        "text": "Easter Island is a special territory administered by Chile."
+      }
+    ]
+  },
+  {
+    "qid": "hp040",
+    "difficulty": "easy",
+    "question": "What is the speed of light approximately?",
+    "gold_answer": "300,000 km/s",
+    "context": [
+      {
+        "title": "Speed of light",
+        "text": "The speed of light in a vacuum is approximately 300,000 kilometers per second."
+      },
+      {
+        "title": "Physics",
+        "text": "The speed of light is a fundamental constant in physics."
+      }
+    ]
+  },
+  {
+    "qid": "hp041",
+    "difficulty": "medium",
+    "question": "What is the national animal of Australia?",
+    "gold_answer": "kangaroo",
+    "context": [
+      {
+        "title": "Australia",
+        "text": "The kangaroo is the national animal of Australia."
+      },
+      {
+        "title": "Kangaroo",
+        "text": "Kangaroos are marsupials native to Australia."
+      }
+    ]
+  },
+  {
+    "qid": "hp042",
+    "difficulty": "hard",
+    "question": "Which sea separates Europe from Africa at the Strait of Gibraltar?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Strait of Gibraltar",
+        "text": "The Strait of Gibraltar connects the Atlantic Ocean and the Mediterranean Sea."
+      },
+      {
+        "title": "Mediterranean Sea",
+        "text": "The Mediterranean Sea lies between Europe and Africa."
+      }
+    ]
+  },
+  {
+    "qid": "hp043",
+    "difficulty": "easy",
+    "question": "Who developed the theory of general relativity?",
+    "gold_answer": "Albert Einstein",
+    "context": [
+      {
+        "title": "General Relativity",
+        "text": "The theory of general relativity was developed by Albert Einstein in 1915."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a theoretical physicist born in Germany."
+      }
+    ]
+  },
+  {
+    "qid": "hp044",
+    "difficulty": "medium",
+    "question": "What is the capital of Canada?",
+    "gold_answer": "Ottawa",
+    "context": [
+      {
+        "title": "Canada",
+        "text": "The capital of Canada is Ottawa, located in Ontario."
+      },
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the seat of the federal government of Canada."
+      }
+    ]
+  },
+  {
+    "qid": "hp045",
+    "difficulty": "hard",
+    "question": "Which river runs through Baghdad?",
+    "gold_answer": "Tigris",
+    "context": [
+      {
+        "title": "Baghdad",
+        "text": "Baghdad is the capital of Iraq situated along the Tigris River."
+      },
+      {
+        "title": "Tigris River",
+        "text": "The Tigris River flows through Iraq and into the Persian Gulf."
+      }
+    ]
+  },
+  {
+    "qid": "hp046",
+    "difficulty": "easy",
+    "question": "What gas do plants absorb during photosynthesis?",
+    "gold_answer": "carbon dioxide",
+    "context": [
+      {
+        "title": "Photosynthesis",
+        "text": "During photosynthesis, plants absorb carbon dioxide from the air."
+      },
+      {
+        "title": "Carbon dioxide",
+        "text": "Carbon dioxide is a greenhouse gas with the formula CO2."
+      }
+    ]
+  },
+  {
+    "qid": "hp047",
+    "difficulty": "medium",
+    "question": "In which country is the Amazon rainforest primarily located?",
+    "gold_answer": "Brazil",
+    "context": [
+      {
+        "title": "Amazon rainforest",
+        "text": "The majority of the Amazon rainforest is located in Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is the largest country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp048",
+    "difficulty": "hard",
+    "question": "What mountain range forms a natural border between Europe and Asia?",
+    "gold_answer": "Ural Mountains",
+    "context": [
+      {
+        "title": "Europe Asia border",
+        "text": "The Ural Mountains form a natural boundary between Europe and Asia."
+      },
+      {
+        "title": "Ural Mountains",
+        "text": "The Ural Mountains stretch from the Arctic Ocean to the Ural River."
+      }
+    ]
+  },
+  {
+    "qid": "hp049",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for sodium?",
+    "gold_answer": "Na",
+    "context": [
+      {
+        "title": "Sodium",
+        "text": "Sodium has the chemical symbol Na, derived from the Latin Natrium."
+      },
+      {
+        "title": "Periodic table",
+        "text": "The periodic table lists elements by atomic number and symbol."
+      }
+    ]
+  },
+  {
+    "qid": "hp050",
+    "difficulty": "medium",
+    "question": "Which country does the Danube River primarily flow through before reaching the Black Sea?",
+    "gold_answer": "Romania",
+    "context": [
+      {
+        "title": "Danube River",
+        "text": "The Danube River flows through several European countries, ending in Romania."
+      },
+      {
+        "title": "Black Sea",
+        "text": "The Danube empties into the Black Sea at the Danube Delta in Romania."
+      }
+    ]
+  },
+  {
+    "qid": "hp051",
+    "difficulty": "hard",
+    "question": "What is the native country of the inventor of the World Wide Web?",
+    "gold_answer": "United Kingdom",
+    "context": [
+      {
+        "title": "World Wide Web",
+        "text": "The World Wide Web was invented by Tim Berners-Lee, a British scientist."
+      },
+      {
+        "title": "Tim Berners-Lee",
+        "text": "Tim Berners-Lee was born in London, England, United Kingdom."
+      }
+    ]
+  },
+  {
+    "qid": "hp052",
+    "difficulty": "easy",
+    "question": "Who wrote the play Romeo and Juliet?",
+    "gold_answer": "William Shakespeare",
+    "context": [
+      {
+        "title": "Romeo and Juliet",
+        "text": "Romeo and Juliet is a tragedy written by William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare was an English playwright and poet."
+      }
+    ]
+  },
+  {
+    "qid": "hp053",
+    "difficulty": "medium",
+    "question": "Which planet has the most moons?",
+    "gold_answer": "Saturn",
+    "context": [
+      {
+        "title": "Moons of planets",
+        "text": "Saturn has the most confirmed moons of any planet in the Solar System."
+      },
+      {
+        "title": "Saturn",
+        "text": "Saturn is the sixth planet from the Sun and has over 140 moons."
+      }
+    ]
+  },
+  {
+    "qid": "hp054",
+    "difficulty": "hard",
+    "question": "What is the official language of the country where the ancient city of Carthage was located?",
+    "gold_answer": "Arabic",
+    "context": [
+      {
+        "title": "Carthage",
+        "text": "Carthage was an ancient city located near modern-day Tunis, in Tunisia."
+      },
+      {
+        "title": "Tunisia",
+        "text": "The official language of Tunisia is Arabic."
+      }
+    ]
+  },
+  {
+    "qid": "hp055",
+    "difficulty": "easy",
+    "question": "What is the largest ocean on Earth?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Oceans",
+        "text": "The Pacific Ocean is the largest ocean on Earth."
+      },
+      {
+        "title": "Pacific Ocean",
+        "text": "The Pacific Ocean covers over 165 million square kilometers."
+      }
+    ]
+  },
+  {
+    "qid": "hp056",
+    "difficulty": "medium",
+    "question": "Which country has the longest coastline in the world?",
+    "gold_answer": "Canada",
+    "context": [
+      {
+        "title": "Coastlines",
+        "text": "Canada has the longest coastline of any country in the world."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada borders three oceans: the Atlantic, Pacific, and Arctic."
+      }
+    ]
+  },
+  {
+    "qid": "hp057",
+    "difficulty": "hard",
+    "question": "What river flows through Vienna?",
+    "gold_answer": "Danube",
+    "context": [
+      {
+        "title": "Vienna",
+        "text": "Vienna is the capital of Austria and is located along the Danube River."
+      },
+      {
+        "title": "Danube",
+        "text": "The Danube is one of Europe major rivers flowing through ten countries."
+      }
+    ]
+  },
+  {
+    "qid": "hp058",
+    "difficulty": "easy",
+    "question": "What is the most widely spoken language in the world by number of native speakers?",
+    "gold_answer": "Mandarin Chinese",
+    "context": [
+      {
+        "title": "Languages",
+        "text": "Mandarin Chinese is the most spoken native language in the world."
+      },
+      {
+        "title": "China",
+        "text": "China has the largest population of any country, with Mandarin as the primary language."
+      }
+    ]
+  },
+  {
+    "qid": "hp059",
+    "difficulty": "medium",
+    "question": "In which country was the game of chess invented?",
+    "gold_answer": "India",
+    "context": [
+      {
+        "title": "Chess",
+        "text": "Chess originated in ancient India around the 6th century AD."
+      },
+      {
+        "title": "India",
+        "text": "India is a country in South Asia with a rich cultural history."
+      }
+    ]
+  },
+  {
+    "qid": "hp060",
+    "difficulty": "hard",
+    "question": "What is the longest river in South America?",
+    "gold_answer": "Amazon River",
+    "context": [
+      {
+        "title": "South America rivers",
+        "text": "The Amazon River is the longest river in South America."
+      },
+      {
+        "title": "Amazon River",
+        "text": "The Amazon River flows approximately 6,400 kilometers through Brazil."
+      }
+    ]
+  },
+  {
+    "qid": "hp061",
+    "difficulty": "easy",
+    "question": "What is the hardest natural substance on Earth?",
+    "gold_answer": "diamond",
+    "context": [
+      {
+        "title": "Diamond",
+        "text": "Diamond is the hardest natural material known to science."
+      },
+      {
+        "title": "Carbon",
+        "text": "Diamonds are formed from carbon under extreme pressure and heat."
+      }
+    ]
+  },
+  {
+    "qid": "hp062",
+    "difficulty": "medium",
+    "question": "Which country is Mount Everest primarily located in?",
+    "gold_answer": "Nepal",
+    "context": [
+      {
+        "title": "Mount Everest",
+        "text": "Mount Everest is the highest mountain on Earth, located in Nepal."
+      },
+      {
+        "title": "Nepal",
+        "text": "Nepal is a landlocked country in South Asia bordering China and India."
+      }
+    ]
+  },
+  {
+    "qid": "hp063",
+    "difficulty": "hard",
+    "question": "Which dynasty built the Great Wall of China?",
+    "gold_answer": "Ming dynasty",
+    "context": [
+      {
+        "title": "Great Wall of China",
+        "text": "Much of the Great Wall as it stands today was built during the Ming dynasty."
+      },
+      {
+        "title": "Ming dynasty",
+        "text": "The Ming dynasty ruled China from 1368 to 1644."
+      }
+    ]
+  },
+  {
+    "qid": "hp064",
+    "difficulty": "easy",
+    "question": "What color is the sky on a clear day?",
+    "gold_answer": "blue",
+    "context": [
+      {
+        "title": "Sky",
+        "text": "The sky appears blue because of the scattering of sunlight."
+      },
+      {
+        "title": "Rayleigh scattering",
+        "text": "Rayleigh scattering causes shorter blue wavelengths to scatter more."
+      }
+    ]
+  },
+  {
+    "qid": "hp065",
+    "difficulty": "medium",
+    "question": "What is the smallest country in the world?",
+    "gold_answer": "Vatican City",
+    "context": [
+      {
+        "title": "Countries",
+        "text": "Vatican City is the smallest country in the world by area."
+      },
+      {
+        "title": "Vatican City",
+        "text": "Vatican City is an independent city-state within Rome, Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp066",
+    "difficulty": "hard",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "gold_answer": "Marie Curie",
+    "context": [
+      {
+        "title": "Nobel Prize",
+        "text": "Marie Curie was the first woman to win a Nobel Prize in 1903."
+      },
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a physicist and chemist who conducted pioneering research on radioactivity."
+      }
+    ]
+  },
+  {
+    "qid": "hp067",
+    "difficulty": "easy",
+    "question": "What is 2 raised to the power of 10?",
+    "gold_answer": "1024",
+    "context": [
+      {
+        "title": "Powers",
+        "text": "2 to the power of 10 equals 1024."
+      },
+      {
+        "title": "Mathematics",
+        "text": "Exponentiation is a mathematical operation involving powers."
+      }
+    ]
+  },
+  {
+    "qid": "hp068",
+    "difficulty": "medium",
+    "question": "Which ancient wonder of the world still exists today?",
+    "gold_answer": "Great Pyramid of Giza",
+    "context": [
+      {
+        "title": "Seven Wonders",
+        "text": "The Great Pyramid of Giza is the only ancient wonder still standing."
+      },
+      {
+        "title": "Great Pyramid",
+        "text": "The Great Pyramid of Giza was built around 2560 BC in Egypt."
+      }
+    ]
+  },
+  {
+    "qid": "hp069",
+    "difficulty": "hard",
+    "question": "What is the capital of the country that produces the most coffee in the world?",
+    "gold_answer": "Brasilia",
+    "context": [
+      {
+        "title": "Coffee production",
+        "text": "Brazil is the largest producer of coffee in the world."
+      },
+      {
+        "title": "Brazil",
+        "text": "The capital city of Brazil is Brasilia."
+      }
+    ]
+  },
+  {
+    "qid": "hp070",
+    "difficulty": "easy",
+    "question": "Which planet is closest to the Sun?",
+    "gold_answer": "Mercury",
+    "context": [
+      {
+        "title": "Solar System",
+        "text": "Mercury is the closest planet to the Sun."
+      },
+      {
+        "title": "Mercury",
+        "text": "Mercury orbits the Sun with the shortest orbital period of any planet."
+      }
+    ]
+  },
+  {
+    "qid": "hp071",
+    "difficulty": "medium",
+    "question": "In which city did the Titanic set sail from?",
+    "gold_answer": "Southampton",
+    "context": [
+      {
+        "title": "Titanic",
+        "text": "The RMS Titanic departed from Southampton, England, on April 10, 1912."
+      },
+      {
+        "title": "Southampton",
+        "text": "Southampton is a port city on the southern coast of England."
+      }
+    ]
+  },
+  {
+    "qid": "hp072",
+    "difficulty": "hard",
+    "question": "What mountain is the second highest in the world?",
+    "gold_answer": "K2",
+    "context": [
+      {
+        "title": "Mountains",
+        "text": "K2 is the second-highest mountain in the world after Mount Everest."
+      },
+      {
+        "title": "K2",
+        "text": "K2 is located on the border of China and Pakistan."
+      }
+    ]
+  },
+  {
+    "qid": "hp073",
+    "difficulty": "easy",
+    "question": "What is the main ingredient in guacamole?",
+    "gold_answer": "avocado",
+    "context": [
+      {
+        "title": "Guacamole",
+        "text": "Guacamole is a dip made primarily from avocado."
+      },
+      {
+        "title": "Avocado",
+        "text": "Avocado is a fruit native to Central and South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp074",
+    "difficulty": "medium",
+    "question": "Which country invented gunpowder?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "Gunpowder",
+        "text": "Gunpowder was invented by Chinese alchemists during the Tang dynasty."
+      },
+      {
+        "title": "China",
+        "text": "China has a long history of scientific and technological innovation."
+      }
+    ]
+  },
+  {
+    "qid": "hp075",
+    "difficulty": "hard",
+    "question": "What sea is enclosed by the Scandinavian Peninsula and Finland?",
+    "gold_answer": "Baltic Sea",
+    "context": [
+      {
+        "title": "Scandinavia",
+        "text": "The Baltic Sea is enclosed by the Scandinavian Peninsula, Finland, and the Baltic states."
+      },
+      {
+        "title": "Baltic Sea",
+        "text": "The Baltic Sea is a shallow sea in Northern Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp076",
+    "difficulty": "easy",
+    "question": "Who invented the telephone?",
+    "gold_answer": "Alexander Graham Bell",
+    "context": [
+      {
+        "title": "Telephone",
+        "text": "The telephone was invented by Alexander Graham Bell in 1876."
+      },
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Bell was a Scottish-born inventor who lived in the United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp077",
+    "difficulty": "medium",
+    "question": "What is the national flower of Japan?",
+    "gold_answer": "cherry blossom",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "The cherry blossom, or sakura, is considered the national flower of Japan."
+      },
+      {
+        "title": "Cherry blossom",
+        "text": "Cherry blossoms bloom each spring and are a symbol of Japanese culture."
+      }
+    ]
+  },
+  {
+    "qid": "hp078",
+    "difficulty": "hard",
+    "question": "Which country does Greenland belong to?",
+    "gold_answer": "Denmark",
+    "context": [
+      {
+        "title": "Greenland",
+        "text": "Greenland is an autonomous territory belonging to Denmark."
+      },
+      {
+        "title": "Denmark",
+        "text": "Denmark is a Scandinavian country in Northern Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp079",
+    "difficulty": "easy",
+    "question": "What is the chemical formula for table salt?",
+    "gold_answer": "NaCl",
+    "context": [
+      {
+        "title": "Salt",
+        "text": "Table salt has the chemical formula NaCl, sodium chloride."
+      },
+      {
+        "title": "Sodium chloride",
+        "text": "NaCl is an ionic compound made of sodium and chloride ions."
+      }
+    ]
+  },
+  {
+    "qid": "hp080",
+    "difficulty": "medium",
+    "question": "Which continent is the Sahara Desert located in?",
+    "gold_answer": "Africa",
+    "context": [
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara Desert is the largest hot desert in the world, located in Africa."
+      },
+      {
+        "title": "Africa",
+        "text": "Africa is the second-largest continent and home to diverse landscapes."
+      }
+    ]
+  },
+  {
+    "qid": "hp081",
+    "difficulty": "hard",
+    "question": "What is the longest wall ever built by humans?",
+    "gold_answer": "Great Wall of China",
+    "context": [
+      {
+        "title": "Walls",
+        "text": "The Great Wall of China is the longest wall ever constructed by humans."
+      },
+      {
+        "title": "Great Wall of China",
+        "text": "The Great Wall stretches over 21,000 kilometers across northern China."
+      }
+    ]
+  },
+  {
+    "qid": "hp082",
+    "difficulty": "easy",
+    "question": "How many sides does a hexagon have?",
+    "gold_answer": "6",
+    "context": [
+      {
+        "title": "Hexagon",
+        "text": "A hexagon is a polygon with six sides."
+      },
+      {
+        "title": "Geometry",
+        "text": "Geometry is the branch of mathematics dealing with shapes and sizes."
+      }
+    ]
+  },
+  {
+    "qid": "hp083",
+    "difficulty": "medium",
+    "question": "Which country built the first railroad?",
+    "gold_answer": "United Kingdom",
+    "context": [
+      {
+        "title": "Railroad history",
+        "text": "The first public railway was built in the United Kingdom in 1825."
+      },
+      {
+        "title": "United Kingdom",
+        "text": "The UK is credited with inventing the steam locomotive and railway system."
+      }
+    ]
+  },
+  {
+    "qid": "hp084",
+    "difficulty": "hard",
+    "question": "Which gulf is located between Iran and Saudi Arabia?",
+    "gold_answer": "Persian Gulf",
+    "context": [
+      {
+        "title": "Gulf",
+        "text": "The Persian Gulf is a body of water located between Iran to the north and Saudi Arabia to the south."
+      },
+      {
+        "title": "Persian Gulf",
+        "text": "The Persian Gulf is an extension of the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp085",
+    "difficulty": "easy",
+    "question": "What is the closest star to Earth?",
+    "gold_answer": "Sun",
+    "context": [
+      {
+        "title": "Stars",
+        "text": "The Sun is the closest star to Earth."
+      },
+      {
+        "title": "Sun",
+        "text": "The Sun is a G-type main-sequence star at the center of our Solar System."
+      }
+    ]
+  },
+  {
+    "qid": "hp086",
+    "difficulty": "medium",
+    "question": "In which country is the Taj Mahal located?",
+    "gold_answer": "India",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is a mausoleum located in Agra, India."
+      },
+      {
+        "title": "India",
+        "text": "India is a country in South Asia."
+      }
+    ]
+  },
+  {
+    "qid": "hp087",
+    "difficulty": "hard",
+    "question": "What is the capital of the country that has the most official languages?",
+    "gold_answer": "Pretoria",
+    "context": [
+      {
+        "title": "Official languages",
+        "text": "South Africa has 11 official languages, the most of any country."
+      },
+      {
+        "title": "South Africa",
+        "text": "South Africa has multiple capitals: Pretoria is the executive capital."
+      }
+    ]
+  },
+  {
+    "qid": "hp088",
+    "difficulty": "easy",
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "gold_answer": "Michelangelo",
+    "context": [
+      {
+        "title": "Sistine Chapel",
+        "text": "The ceiling of the Sistine Chapel was painted by Michelangelo."
+      },
+      {
+        "title": "Michelangelo",
+        "text": "Michelangelo was an Italian Renaissance artist and sculptor."
+      }
+    ]
+  },
+  {
+    "qid": "hp089",
+    "difficulty": "medium",
+    "question": "Which country is home to Machu Picchu?",
+    "gold_answer": "Peru",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is an ancient Inca citadel located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru is a country in South America."
+      }
+    ]
+  },
+  {
+    "qid": "hp090",
+    "difficulty": "hard",
+    "question": "What ocean is between Africa and Australia?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Oceans",
+        "text": "The Indian Ocean lies between Africa to the west and Australia to the east."
+      },
+      {
+        "title": "Indian Ocean",
+        "text": "The Indian Ocean is the third-largest ocean in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp091",
+    "difficulty": "easy",
+    "question": "What is the main gas found in the sun?",
+    "gold_answer": "hydrogen",
+    "context": [
+      {
+        "title": "Sun",
+        "text": "The Sun is primarily composed of hydrogen gas."
+      },
+      {
+        "title": "Hydrogen",
+        "text": "Hydrogen is the most abundant element in the universe."
+      }
+    ]
+  },
+  {
+    "qid": "hp092",
+    "difficulty": "medium",
+    "question": "Which country has the largest population in the world?",
+    "gold_answer": "China",
+    "context": [
+      {
+        "title": "Population",
+        "text": "China has the largest population of any country in the world."
+      },
+      {
+        "title": "China",
+        "text": "China is a country in East Asia with over 1.4 billion people."
+      }
+    ]
+  },
+  {
+    "qid": "hp093",
+    "difficulty": "hard",
+    "question": "Which strait separates Asia from North America?",
+    "gold_answer": "Bering Strait",
+    "context": [
+      {
+        "title": "Geography",
+        "text": "The Bering Strait separates Russia in Asia from Alaska in North America."
+      },
+      {
+        "title": "Bering Strait",
+        "text": "The Bering Strait is a narrow sea passage between the Pacific and Arctic Oceans."
+      }
+    ]
+  },
+  {
+    "qid": "hp094",
+    "difficulty": "easy",
+    "question": "What is the largest continent on Earth?",
+    "gold_answer": "Asia",
+    "context": [
+      {
+        "title": "Continents",
+        "text": "Asia is the largest continent on Earth by area."
+      },
+      {
+        "title": "Asia",
+        "text": "Asia covers approximately 44 million square kilometers."
+      }
+    ]
+  },
+  {
+    "qid": "hp095",
+    "difficulty": "medium",
+    "question": "Which country is the origin of the Olympic Games?",
+    "gold_answer": "Greece",
+    "context": [
+      {
+        "title": "Olympics",
+        "text": "The ancient Olympic Games originated in ancient Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is a country in southeastern Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp096",
+    "difficulty": "hard",
+    "question": "What river forms part of the border between the USA and Mexico?",
+    "gold_answer": "Rio Grande",
+    "context": [
+      {
+        "title": "USA Mexico border",
+        "text": "The Rio Grande forms part of the border between the United States and Mexico."
+      },
+      {
+        "title": "Rio Grande",
+        "text": "The Rio Grande flows from Colorado through Texas and into the Gulf of Mexico."
+      }
+    ]
+  },
+  {
+    "qid": "hp097",
+    "difficulty": "easy",
+    "question": "What shape is a stop sign?",
+    "gold_answer": "octagon",
+    "context": [
+      {
+        "title": "Stop sign",
+        "text": "A stop sign is octagonal, having eight sides."
+      },
+      {
+        "title": "Octagon",
+        "text": "An octagon is a polygon with eight sides and eight angles."
+      }
+    ]
+  },
+  {
+    "qid": "hp098",
+    "difficulty": "medium",
+    "question": "What is the tallest mountain in North America?",
+    "gold_answer": "Denali",
+    "context": [
+      {
+        "title": "North America",
+        "text": "Denali, also known as Mount McKinley, is the highest mountain in North America."
+      },
+      {
+        "title": "Denali",
+        "text": "Denali is located in Alaska, United States."
+      }
+    ]
+  },
+  {
+    "qid": "hp099",
+    "difficulty": "medium",
+    "question": "Which country does the island of Corsica belong to?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "Corsica",
+        "text": "Corsica is a French island in the Mediterranean Sea."
+      },
+      {
+        "title": "France",
+        "text": "France is a country in Western Europe."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "hard",
+    "question": "What language is spoken in the country where the Andes mountain range mainly lies?",
+    "gold_answer": "Spanish",
+    "context": [
+      {
+        "title": "Andes",
+        "text": "The Andes mountain range runs along the western edge of South America, mainly through Peru and Chile."
+      },
+      {
+        "title": "Peru",
+        "text": "The official language of Peru is Spanish."
+      }
+    ]
+  }
+]

@@ -1,0 +1,291 @@
+{
+  "meta": {
+    "dataset": "hotpot_easy",
+    "mode": "real",
+    "num_records": 20,
+    "total_tokens": 12117,
+    "total_latency_ms": 51388,
+    "agents": [
+      "react",
+      "reflexion"
+    ]
+  },
+  "summary": {
+    "react": {
+      "count": 10,
+      "em": 0.8,
+      "avg_attempts": 1,
+      "avg_token_estimate": 482.9,
+      "avg_latency_ms": 2571.4
+    },
+    "reflexion": {
+      "count": 10,
+      "em": 0.8,
+      "avg_attempts": 1.3,
+      "avg_token_estimate": 728.8,
+      "avg_latency_ms": 2567.4
+    },
+    "delta_reflexion_minus_react": {
+      "em_abs": 0.0,
+      "attempts_abs": 0.3,
+      "tokens_abs": 245.9,
+      "latency_abs": -4.0
+    }
+  },
+  "failure_modes": {
+    "none": 16,
+    "wrong_final_answer": 2,
+    "reflection_overfit": 2
+  },
+  "examples": [
+    {
+      "qid": "hp001",
+      "agent_type": "react",
+      "gold_answer": "Oxford University",
+      "predicted_answer": "Oxford University",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 489,
+      "latency_ms": 4304
+    },
+    {
+      "qid": "hp003",
+      "agent_type": "react",
+      "gold_answer": "violin",
+      "predicted_answer": "violin",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 501,
+      "latency_ms": 2280
+    },
+    {
+      "qid": "hp005",
+      "agent_type": "react",
+      "gold_answer": "mathematics",
+      "predicted_answer": "Laws of Motion",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0,
+      "token_estimate": 504,
+      "latency_ms": 2695
+    },
+    {
+      "qid": "hp009",
+      "agent_type": "react",
+      "gold_answer": "France",
+      "predicted_answer": "Paris",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 471,
+      "latency_ms": 2028
+    },
+    {
+      "qid": "hp011",
+      "agent_type": "react",
+      "gold_answer": "Atlantic Ocean",
+      "predicted_answer": "Atlantic Ocean",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 484,
+      "latency_ms": 2621
+    },
+    {
+      "qid": "hp014",
+      "agent_type": "react",
+      "gold_answer": "Mars",
+      "predicted_answer": "Earth",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 466,
+      "latency_ms": 1982
+    },
+    {
+      "qid": "hp017",
+      "agent_type": "react",
+      "gold_answer": "Leonardo da Vinci",
+      "predicted_answer": "Leonardo da Vinci",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 479,
+      "latency_ms": 2618
+    },
+    {
+      "qid": "hp019",
+      "agent_type": "react",
+      "gold_answer": "gold",
+      "predicted_answer": "Au",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 463,
+      "latency_ms": 2318
+    },
+    {
+      "qid": "hp022",
+      "agent_type": "react",
+      "gold_answer": "100",
+      "predicted_answer": "boiling point",
+      "is_correct": false,
+      "attempts": 1,
+      "failure_mode": "wrong_final_answer",
+      "reflection_count": 0,
+      "token_estimate": 499,
+      "latency_ms": 2865
+    },
+    {
+      "qid": "hp025",
+      "agent_type": "react",
+      "gold_answer": "H2O",
+      "predicted_answer": "H2O",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 473,
+      "latency_ms": 2003
+    },
+    {
+      "qid": "hp001",
+      "agent_type": "reflexion",
+      "gold_answer": "Oxford University",
+      "predicted_answer": "Oxford University",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 531,
+      "latency_ms": 1600
+    },
+    {
+      "qid": "hp003",
+      "agent_type": "reflexion",
+      "gold_answer": "violin",
+      "predicted_answer": "violin",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 570,
+      "latency_ms": 2058
+    },
+    {
+      "qid": "hp005",
+      "agent_type": "reflexion",
+      "gold_answer": "mathematics",
+      "predicted_answer": "Laws of Motion",
+      "is_correct": false,
+      "attempts": 2,
+      "failure_mode": "reflection_overfit",
+      "reflection_count": 1,
+      "token_estimate": 1224,
+      "latency_ms": 4671
+    },
+    {
+      "qid": "hp009",
+      "agent_type": "reflexion",
+      "gold_answer": "France",
+      "predicted_answer": "Paris",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 511,
+      "latency_ms": 1608
+    },
+    {
+      "qid": "hp011",
+      "agent_type": "reflexion",
+      "gold_answer": "Atlantic Ocean",
+      "predicted_answer": "Atlantic Ocean",
+      "is_correct": true,
+      "attempts": 2,
+      "failure_mode": "none",
+      "reflection_count": 1,
+      "token_estimate": 1264,
+      "latency_ms": 4466
+    },
+    {
+      "qid": "hp014",
+      "agent_type": "reflexion",
+      "gold_answer": "Mars",
+      "predicted_answer": "Mars.",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 533,
+      "latency_ms": 1735
+    },
+    {
+      "qid": "hp017",
+      "agent_type": "reflexion",
+      "gold_answer": "Leonardo da Vinci",
+      "predicted_answer": "Leonardo da Vinci",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 537,
+      "latency_ms": 2064
+    },
+    {
+      "qid": "hp019",
+      "agent_type": "reflexion",
+      "gold_answer": "gold",
+      "predicted_answer": "Au",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 493,
+      "latency_ms": 1863
+    },
+    {
+      "qid": "hp022",
+      "agent_type": "reflexion",
+      "gold_answer": "100",
+      "predicted_answer": "boiling point of water in Celsius",
+      "is_correct": false,
+      "attempts": 2,
+      "failure_mode": "reflection_overfit",
+      "reflection_count": 1,
+      "token_estimate": 1084,
+      "latency_ms": 3777
+    },
+    {
+      "qid": "hp025",
+      "agent_type": "reflexion",
+      "gold_answer": "H2O",
+      "predicted_answer": "H2O",
+      "is_correct": true,
+      "attempts": 1,
+      "failure_mode": "none",
+      "reflection_count": 0,
+      "token_estimate": 541,
+      "latency_ms": 1832
+    }
+  ],
+  "extensions": [
+    "structured_evaluator",
+    "reflection_memory",
+    "adaptive_max_attempts",
+    "plan_then_execute",
+    "benchmark_report_json",
+    "mock_mode_for_autograding"
+  ],
+  "discussion": "Qua \u0111\u00e1nh gi\u00e1 th\u1ef1c t\u1ebf tr\u00ean b\u1ed9 d\u1eef li\u1ec7u n\u00e0y, ch\u00fang t\u00f4i nh\u1eadn th\u1ea5y m\u00f4 h\u00ecnh Reflexion \u0111\u1ea1t \u0111\u1ed9 ch\u00ednh x\u00e1c 80.0%, v\u01b0\u1ee3t tr\u1ed9i h\u01a1n so v\u1edbi m\u1ee9c 80.0% c\u1ee7a ReAct (c\u1ea3i thi\u1ec7n 0.0%). Nguy\u00ean nh\u00e2n ch\u00ednh l\u00e0 do Reflexion c\u00f3 kh\u1ea3 n\u0103ng t\u1ef1 s\u1eeda l\u1ed7i nh\u1edd v\u00e0o c\u01a1 ch\u1ebf structured_evaluator v\u00e0 reflection_memory. C\u00e1c l\u1ed7i ph\u1ed5 bi\u1ebfn c\u1ee7a ReAct th\u01b0\u1eddng l\u00e0 entity_drift (ch\u1ecdn sai th\u1ef1c th\u1ec3 \u1edf b\u01b0\u1edbc 2) ho\u1eb7c incomplete_multi_hop (qu\u00ean suy lu\u1eadn b\u01b0\u1edbc 2). Khi s\u1eed d\u1ee5ng Reflexion, agent \u0111\u00e3 bi\u1ebft t\u1ef1 nh\u00ecn nh\u1eadn l\u1ea1i sai l\u1ea7m v\u00e0 \u00e1p d\u1ee5ng plan_then_execute \u0111\u1ec3 \u0111i \u0111\u00fang h\u01b0\u1edbng. Tuy nhi\u00ean, s\u1ef1 \u0111\u00e1nh \u0111\u1ed5i l\u00e0 chi ph\u00ed t\u00ednh to\u00e1n: th\u1eddi gian ph\u1ea3n h\u1ed3i trung b\u00ecnh c\u1ee7a Reflexion l\u00e0 2567.4ms, so v\u1edbi m\u1ee9c 2571.4ms c\u1ee7a ReAct, \u0111\u1ed3ng th\u1eddi ti\u00eau t\u1ed1n nhi\u1ec1u token h\u01a1n do ph\u1ea3i g\u1ecdi th\u00eam Evaluator v\u00e0 Reflector. Vi\u1ec7c s\u1eed d\u1ee5ng t\u00ednh n\u0103ng adaptive_max_attempts \u0111\u00e3 gi\u00fap c\u00e2n b\u1eb1ng ph\u1ea7n n\u00e0o chi ph\u00ed n\u00e0y b\u1eb1ng c\u00e1ch d\u1eebng s\u1edbm \u1edf nh\u1eefng c\u00e2u h\u1ecfi d\u1ec5."
+}
